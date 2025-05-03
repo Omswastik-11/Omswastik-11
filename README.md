@@ -5,9 +5,8 @@
     <em>2nd-year Mechanical Engineering Student @ IIT (BHU) Varanasi</em>
   </p>
   <p>
-    <a href="mailto:omswastikpanda11@gmail.com">📫 your.email@domain.com</a> •
-    <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-    <a href="https://twitter.com/your-twitter">Twitter</a>
+    <a href="mailto:omswastikpanda11@gmail.com">📫 omswastikpanda11@gmail.com</a> •
+    <a href="https://www.linkedin.com/in/om-swastik-panda-9a3576286/">LinkedIn</a> •
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=omswa&color=blue" alt="profile views" />
