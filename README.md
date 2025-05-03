@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hello, I’m Om Swastik Panda</h1>
   <p>
-    <em>2nd-year Mechanical Engineering Student @ IIT (BHU) Varanasi</em>
+    <em>A passionate student for Machine Learning and Robotics </em>
   </p>
   <p>
     <a href="mailto:omswastikpanda11@gmail.com">📫 omswastikpanda11@gmail.com</a> •
