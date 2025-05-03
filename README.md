@@ -5,7 +5,7 @@
     <em>2nd-year Mechanical Engineering Student @ IIT (BHU) Varanasi</em>
   </p>
   <p>
-    <a href="mailto:your.email@domain.com">📫 your.email@domain.com</a> •
+    <a href="mailto:omswastikpanda11@gmail.com">📫 your.email@domain.com</a> •
     <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
     <a href="https://twitter.com/your-twitter">Twitter</a>
   </p>
