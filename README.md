@@ -25,18 +25,20 @@ class OmSwastikPanda:
         
     def current_focus(self):
         return [
-            "Building autonomous drones & ground robots 🚁",
-            "Exploring Reinforcement Learning algorithms 🧠",
-            "Developing ROS2-based systems 🤖",
-            "Computer Vision & Control Theory 👁️",
-            "Contributing to Open Source 🌍"
+            "Mastering Backend Development: Go, Django, FastAPI & Node.js 🚀",
+            "Building AI Agent Systems with LangChain & LangGraph 🤖",
+            "Contributing to ML libraries: Scikit-learn & sktime 📚",
+            "Deep diving into Bitcoin, Blockchain & Web3 ₿",
+            "Exploring Robotics, RL & Computer Vision 🧠"
         ]
     
     def interests(self):
         return {
-            "tech": ["Robotics", "AI/ML", "IoT", "Autonomous Systems"],
-            "entertainment": ["Game of Thrones", "Attack on Titan", 
-                            "Death Note", "Pokemon", "Batman"],
+            "tech": ["Robotics", "AI Agents", "Backend Dev", "Blockchain", 
+                    "Web3", "Open Source", "Autonomous Systems"],
+            "crypto": ["Bitcoin ₿", "Blockchain Technology", "Decentralization"],
+            "entertainment": ["Game of Thrones 🐉", "Attack on Titan ⚔️", 
+                            "Death Note 📓", "Pokemon ⚡", "Batman 🦇"],
             "collaboration": "Always open! Let's build something amazing together 🤝"
         }
 ```
@@ -48,10 +50,11 @@ class OmSwastikPanda:
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
@@ -68,6 +71,9 @@ class OmSwastikPanda:
 
 ### Frameworks & Tools
 <p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
@@ -76,31 +82,13 @@ class OmSwastikPanda:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
+### Blockchain & Web3
+<p>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omswa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omswa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omswa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 Current Projects & Interests
-
-- 🤖 **Autonomous Systems**: Developing intelligent drones and ground robots
-- 🧪 **Simulation**: Building physics-based environments for robot testing
-- 🎮 **Reinforcement Learning**: Training agents to make smart decisions
-- 👁️ **Computer Vision**: Teaching machines to see and understand
-- 🔧 **ROS2 Development**: Creating robust robotic applications
-- 🌐 **IoT Solutions**: Connecting the physical and digital worlds
-
----
 
 ## 🎬 When I'm Not Coding...
 
