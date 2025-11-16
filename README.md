@@ -18,7 +18,7 @@
 class OmSwastikPanda:
     def __init__(self):
         self.name = "Om Swastik Panda"
-        self.role = "Robotics & ML Engineer"
+        self.role = "Student"
         self.education = "B.Tech Mechanical Engineering @ IIT (BHU) Varanasi"
         self.year = "Pre-Final Year"
         self.location = "Varanasi, India 🇮🇳"
