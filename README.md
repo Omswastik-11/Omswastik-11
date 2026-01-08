@@ -82,6 +82,20 @@ class OmSwastikPanda:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+### 💻 CP / DSA Profiles
+
+<p align="left">
+  <a href="https://codeforces.com/profile/omswastikpanda11" target="_blank">
+    <img src="https://github.com/user-attachments/assets/47bd0ab6-5b33-4df8-a764-ef3931fec033" 
+         alt="Codeforces" width="120"/>
+  </a>
+
+  <a href="https://leetcode.com/u/T9xIwV2qEp/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" width="120"/>
+  </a>
+</p>
+
 ### Blockchain & Web3
 <p>
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
