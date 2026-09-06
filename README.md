@@ -20,12 +20,12 @@ class OmSwastikPanda:
         self.name = "Om Swastik Panda"
         self.role = "Student"
         self.education = "B.Tech Mechanical Engineering @ IIT (BHU) Varanasi"
-        self.year = "Pre-Final Year"
+        self.year = "Final Year"
         self.location = "Varanasi, India 🇮🇳"
         
     def current_focus(self):
         return [
-            "Mastering Backend Development: Go, Django, FastAPI & Node.js 🚀",
+            "Mastering Backend Development: Go, Django, FastAPI 🚀",
             "Building AI Agent Systems with LangChain & LangGraph 🤖",
             "Contributing to ML libraries: Scikit-learn & sktime 📚",
             "Deep diving into Bitcoin, Blockchain & Web3 ₿",
