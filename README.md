@@ -74,12 +74,12 @@ class OmSwastikPanda:
 
 Selected for **European Summer of Code 2026** (1 of 5 contributors) and **Google Summer of Code 2025** (1 of 1,280 from 23,599+ proposals).
 
-| Project | Contribution | Pull requests |
-| :-- | :-- | :-- |
-| **[openml/openml-python](https://github.com/openml/openml-python)** | Migrated Runs and Flows from the V1 (XML) API to V2 (JSON), with response dispatchers and abstraction layers that keep both versions working. Redesigned SDK interfaces with unified Get/List APIs and type-based dispatch. | [View PRs](https://github.com/openml/openml-python/pulls?q=is%3Apr+author%3AOmswastik-11) |
-| **[sktime/skpro](https://github.com/sktime/skpro)** | Probabilistic ML: added GLUM and MAPIE >=1.0 interfaces and an Inverse Gaussian distribution. | [View PRs](https://github.com/sktime/skpro/pulls?q=is%3Apr+author%3AOmswastik-11) |
-| **[medic/pyxform](https://github.com/medic/pyxform)** | Contributions to the Python library that converts XLSForm spreadsheets into XForms. | [View PRs](https://github.com/medic/pyxform/pulls?q=is%3Apr+author%3AOmswastik-11) |
-| **Apothesis** (GSoC 2025) | Built **PyApothesis** for the kinetic Monte Carlo simulator of CVD and atomic layer deposition: simulation parameter customisation, deposition visualisation and ML embedding. | - |
+| Project | What I worked on | Notable PRs | All PRs |
+| :-- | :-- | :-- | :-- |
+| **[openml/openml-python](https://github.com/openml/openml-python)** | Migrating the SDK from the V1 (XML) API to V2 (JSON), using response dispatchers and abstraction layers so both versions keep working. Also smaller fixes: clearer auth errors, stricter validation, typed refactors. | [#1607](https://github.com/openml/openml-python/pull/1607) Flow module V1 to V2 migration<br/>[#1616](https://github.com/openml/openml-python/pull/1616) Runs V1 to V2 migration | [View](https://github.com/openml/openml-python/pulls?q=is%3Apr+author%3AOmswastik-11) |
+| **[sktime/skpro](https://github.com/sktime/skpro)** | Probabilistic regression: added the GLUM and PyGAM interfaces, an Inverse Gaussian distribution, and MAPIE 1.0 conformal support. | [#665](https://github.com/sktime/skpro/pull/665) Support for the MAPIE 1.0 conformal regression API | [View](https://github.com/sktime/skpro/pulls?q=is%3Apr+author%3AOmswastik-11) |
+| **[medic/pyxform](https://github.com/medic/pyxform)** | Medic's pyxform (XLSForm to XForm converter): CI migration to GitHub Actions, the `pyxform-medic` package and CLI, Medic custom field types, and SMS prefix and delimiter support. | [#32](https://github.com/medic/pyxform/pull/32) CHT SMS prefix and delimiter support | [View](https://github.com/medic/pyxform/pulls?q=is%3Apr+author%3AOmswastik-11) |
+| **[Apothesis](https://github.com/nixeimar/Apothesis)** (GSoC 2025) | Built **PyApothesis** for the kinetic Monte Carlo simulator of CVD and atomic layer deposition: simulation parameter customisation, deposition visualisation and ML embedding. | [#47](https://github.com/nixeimar/Apothesis/pull/47) Created PyApothesis | [Fork](https://github.com/Omswastik-11/Apothesis) |
 
 ---
 
