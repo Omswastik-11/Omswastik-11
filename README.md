@@ -1,146 +1,134 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Om+Swastik+Panda;Robotics+%26+ML+Enthusiast;Building+Autonomous+Systems;Open+Source+Contributor" alt="Typing SVG" />
-  
-  <p><em>Building the future, one robot at a time 🤖</em></p>
-  
-  [![Email](https://img.shields.io/badge/Email-omswastikpanda11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omswastikpanda11@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-swastik-panda-9a3576286/)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=omswa&color=2e9ef7&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/omswa?label=Followers&style=for-the-badge&color=2e9ef7)
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2E9EF7&center=true&vCenter=true&width=640&lines=Hi,+I'm+Om+Swastik+Panda;Software+Dev+%7C+ML+%7C+Robotics;Open+Source+Contributor" alt="Typing SVG" />
 
----
-
-## 🚀 About Me
-
-```python
-class OmSwastikPanda:
-    def __init__(self):
-        self.name = "Om Swastik Panda"
-        self.role = "Student"
-        self.education = "B.Tech Mechanical Engineering @ IIT (BHU) Varanasi"
-        self.year = "Final Year"
-        self.location = "Varanasi, India 🇮🇳"
-        
-    def current_focus(self):
-        return [
-            "Mastering Backend Development: Go, Django, FastAPI 🚀",
-            "Building AI Agent Systems with LangChain & LangGraph 🤖",
-            "Contributing to ML libraries: Scikit-learn & sktime 📚",
-            "Deep diving into Bitcoin, Blockchain & Web3 ₿",
-            "Exploring Robotics, RL & Computer Vision 🧠"
-        ]
-    
-    def interests(self):
-        return {
-            "tech": ["Robotics", "AI Agents", "Backend Dev", "Blockchain", 
-                    "Web3", "Open Source", "Autonomous Systems"],
-            "crypto": ["Bitcoin ₿", "Blockchain Technology", "Decentralization"],
-            "entertainment": ["Game of Thrones 🐉", "Attack on Titan ⚔️", 
-                            "Death Note 📓", "Pokemon ⚡", "Batman 🦇"],
-            "collaboration": "Always open! Let's build something amazing together 🤝"
-        }
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</p>
-
-### Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/🕸️_LangGraph-121212?style=for-the-badge" alt="LangGraph"/>
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-### 💻 CP / DSA Profiles
-
-<p align="left">
-  <a href="https://codeforces.com/profile/omswastikpanda11" target="_blank">
-    <img src="https://github.com/user-attachments/assets/47bd0ab6-5b33-4df8-a764-ef3931fec033" 
-         alt="Codeforces" width="120"/>
-  </a>
-
-  <a href="https://leetcode.com/u/T9xIwV2qEp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-         alt="LeetCode" width="120"/>
-  </a>
-</p>
-
-### Blockchain & Web3
-<p>
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
-</p>
-
-
-## 🎬 When I'm Not Coding...
-
-```javascript
-const myDowntime = {
-  binge_watching: ["Game of Thrones 🐉", "Attack on Titan ⚔️", "Death Note 📓", "Pokemon ⚡"],
-  superhero: "Batman 🦇 (because who doesn't love a genius billionaire vigilante?)",
-  status: "Always ready to discuss plot theories and character arcs!"
-};
-```
-
----
-
-## 🤝 Let's Collaborate!
-
-I'm always excited to work on:
-- 🤖 Robotics and autonomous systems
-- 🧠 AI/ML projects with real-world impact
-- 🌐 IoT and embedded systems
-- 📚 Open source contributions
-- 💡 Innovative ideas that push boundaries
-
-**Got an interesting project? Let's connect!** 
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
-  ### 💬 "Building the future requires breaking the conventional" 
-  
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Python-red?style=for-the-badge" alt="Made with love"/>
+    <a href="mailto:omswastikpanda11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/om-swastik-panda-9a3576286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://codeforces.com/profile/omswastikpanda11"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+    <a href="https://leetcode.com/u/T9xIwV2qEp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a href="https://www.geeksforgeeks.org/profile/omswastikoowm"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   </p>
 </div>
 
 ---
 
+## About Me
+
+```python
+class OmSwastikPanda:
+    def __init__(self):
+        self.name = "Om Swastik Panda"
+        self.education = "B.Tech Mechanical Engineering @ IIT (BHU) Varanasi, 2027"
+        self.location = "Varanasi, India"
+        self.programs = ["European Summer of Code 2026", "Google Summer of Code 2025"]
+        self.open_source = ["OpenML", "skpro (sktime)", "pyxform (Medic)"]
+
+    def interests(self):
+        return [
+            "Software development",
+            "Machine learning",
+            "Robotics",
+            "Decentralised networks",
+            "Open source development",
+        ]
+
+    def focus(self):
+        return [
+            "Backend systems: FastAPI, PostgreSQL, concurrency",
+            "Probabilistic and applied ML",
+            "Agentic systems with LangGraph and MCP",
+            "Maintaining and extending open-source Python libraries",
+        ]
+```
+
+---
+
+## Interests
+
+| Area | What I enjoy about it |
+| :-- | :-- |
+| **Software development** | Backend services, APIs, databases, and systems code (Python and C++) that stays correct under load. |
+| **Machine learning** | Building and evaluating models end to end, from data and training to serving and explainability. |
+| **Robotics** | Where software meets the physical world: simulation, control, and perception. |
+| **Decentralised networks** | How distributed systems agree on state without a central authority. |
+| **Open source** | Contributing to libraries I use, and learning from code review on real projects. |
+
+---
+
+## Featured Projects
+
+| Project | Description | Links |
+| :-- | :-- | :-- |
+| **PrepPilot** | Adaptive AI interview coach. Async **FastAPI + PostgreSQL** backend, hybrid SQL + **pgvector (HNSW)** retrieval, Gemini to Groq failover with retries, and a Next.js frontend. | [Code](https://github.com/Omswastik-11/PrepPilot) · [Live](https://prep-pilot-xi-ten.vercel.app/) |
+| **OntoAgent** | Ontology-grounded multi-agent ops copilot. A **LangGraph** supervisor routes questions across Text-to-SQL, Neo4j graph and pgvector policy-RAG specialists. Actions need human approval and run through a re-validating **FastMCP** server, with SQL/Cypher validators, a read-only DB role and PII masking. | [Code](https://github.com/Omswastik-11/OntoAgent) |
+| **Ledger Engine** | Event-sourced double-entry ledger with optimistic concurrency control, idempotency keys, two-phase authorization holds, SHA-256 hash-chained audit entries and a transactional outbox. 28 tests, CI on GitHub Actions. | [Live demo](https://ledger-engine-998u.onrender.com/) |
+
+**Also built:**
+**C++20 HTTP/1.1 server** (epoll reactor, worker pool, zero-allocation parser, ASan/TSan clean) ·
+**ToxiGuard** (multi-label toxicity detection, DistilBERT to ONNX, bias audit) ·
+**AmEx CTR prediction** (2M+ interactions, calibrated CatBoost, Dash dashboard)
+
+---
+
+## Open Source
+
+Selected for **European Summer of Code 2026** (1 of 5 contributors) and **Google Summer of Code 2025** (1 of 1,280 from 23,599+ proposals).
+
+| Project | Contribution | Pull requests |
+| :-- | :-- | :-- |
+| **[openml/openml-python](https://github.com/openml/openml-python)** | Migrated Runs and Flows from the V1 (XML) API to V2 (JSON), with response dispatchers and abstraction layers that keep both versions working. Redesigned SDK interfaces with unified Get/List APIs and type-based dispatch. | [View PRs](https://github.com/openml/openml-python/pulls?q=is%3Apr+author%3AOmswastik-11) |
+| **[sktime/skpro](https://github.com/sktime/skpro)** | Probabilistic ML: added GLUM and MAPIE >=1.0 interfaces and an Inverse Gaussian distribution. | [View PRs](https://github.com/sktime/skpro/pulls?q=is%3Apr+author%3AOmswastik-11) |
+| **[medic/pyxform](https://github.com/medic/pyxform)** | Contributions to the Python library that converts XLSForm spreadsheets into XForms. | [View PRs](https://github.com/medic/pyxform/pulls?q=is%3Apr+author%3AOmswastik-11) |
+| **Apothesis** (GSoC 2025) | Built **PyApothesis** for the kinetic Monte Carlo simulator of CVD and atomic layer deposition: simulation parameter customisation, deposition visualisation and ML embedding. | - |
+
+---
+
+## Problem Solving
+
+1000+ problems solved across CSES, Codeforces, LeetCode and GeeksforGeeks.
+
+| Platform | Highlight | Profile |
+| :-- | :-- | :-- |
+| Codeforces | Specialist, max rating 1434 | [omswastikpanda11](https://codeforces.com/profile/omswastikpanda11) |
+| LeetCode | Max rating 1711 | [T9xIwV2qEp](https://leetcode.com/u/T9xIwV2qEp/) |
+| GeeksforGeeks | Coding practice | [omswastikoowm](https://www.geeksforgeeks.org/profile/omswastikoowm) |
+| CSES | Problem set practice | - |
+
+---
+
+## Tech Stack
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+**Backend and Tools**<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+
+**Machine Learning**<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square" alt="LangGraph"/>
+
+---
+
+## Get in Touch
+
+Open to collaborating on backend, ML and open-source work. Reach me at [omswastikpanda11@gmail.com](mailto:omswastikpanda11@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/om-swastik-panda-9a3576286/).
+
 <!---
-Omswastik-11/Omswastik-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Omswastik-11/Omswastik-11 is a special repository because its README.md (this file) appears on your GitHub profile.
 --->
